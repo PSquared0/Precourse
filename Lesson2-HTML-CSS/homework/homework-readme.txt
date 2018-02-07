@@ -21,7 +21,7 @@ I. Create a basic HTML page.
         use this address: "http://http://lorempixel.com/400/200/food/").
 
 II. Add some style
-  A. Add style tags to you HTML document.
+  A. Add style tags to your HTML document.
   B. Give your third div the id "thirdDiv".
   C. Give your other divs the class "divClass".
   D. Give the span in your seond div the id "spanId".
