@@ -12,7 +12,7 @@ I. Create a basic HTML page.
       * an h1 element containing [Your name].
       * an h3 element containing "Lambda School".
       * an h4 element containing "HTML/CSS homework".
-    2. In the second div create:.
+    2. In the second div create:
       * a span element containing text describing your favorite food.
       * an 'a' element linking to your favorite restaurant.
     3. In the third div create:
