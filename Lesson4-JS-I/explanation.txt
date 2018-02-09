@@ -1,0 +1,10 @@
+* Variables 
+Variable are like garages and the cars are the info assigned to them for var garage1 = red car is like saying i want the garage1 to store that red car for me. Whenever i refence gaage 1 i know a red car is in it until i change it,
+* Strings
+strings are text pr spaces with quotation marks around them
+* Functions (arguments, `return`)
+functions are a block of code meant to perfomr an action. the arguments are the variables that we will be using in the function. the return is what we want the finction to send back out visisbly.
+* `if` statements
+say its raining  you could progrma somethign to remind you to take an umbrella, if it not raining it will do nothing, if statements are conditionals that run if certain conditions are met.
+* Boolean values (`true`, `false`)
+can work with if statements, simply put if something meets a standard say true, if not say false, and vice versa.
